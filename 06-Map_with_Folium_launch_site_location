@@ -1,2 +1,5 @@
 for the Interactive Map with Folium, please use the following URL to open in your browser:
 https://nbviewer.org/github/SirikamonNation/coursera-applied-data-science-capstone/blob/main/lab_jupyter_launch_site_location.ipynb
+
+In the case it shows "file not found", it can be view via https://nbviewer.jupyter.org by copy the below URL and paste in the textfield, then click "Go".
+https://github.com/SirikamonNation/coursera-applied-data-science-capstone/blob/main/lab_jupyter_launch_site_location.ipynb
